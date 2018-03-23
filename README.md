@@ -1,5 +1,5 @@
 # Python-Affine-Cipher-Script
-Useful for Affine / Monoalphabetic substitution cipher solving in Discrete Mathematics.
+Useful for Affine / Monoalphabetic substitution cipher encoding in Discrete Mathematics. Script takes message and formula as input and outputs encoded result.
 
 ## Usage:
 
